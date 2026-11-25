@@ -2,6 +2,8 @@
 
 Restore **Windows Hello facial recognition in dark or low-light rooms** on Windows 11 **without disabling your RGB webcam** and without background lock/unlock scripts.
 
+<img width="1200" height="675" alt="windows-hello-ir-only-reddit" src="https://github.com/user-attachments/assets/2b3ea190-6202-4702-a4ae-7ecd94a75199" />
+
 ## Why Windows Hello Stopped Working in the Dark
 
 Starting with the April 2025 security updates addressing **CVE-2025-26644**, Microsoft changed Windows Hello Face authentication to require **both** the infrared (IR) sensor and the visible-light (RGB) webcam simultaneously. Because standard RGB webcams cannot see in pitch darkness, Windows Hello fails at night.
